@@ -14,6 +14,8 @@ patat:
 
 ```
 
+![Uncle Bob Functional](uncle_bob_troll.png)
+
 # A BRIEF HISTORY
 
 - Entscheidungsproblem (Decision Problem), by David Hilbert
@@ -104,6 +106,7 @@ patat:
   >> Intuitive (personal preference)
   >> Very mathematical
   >> Composition & Currying
+  >> Lazy Evaluation
   >> Great compilers
 
 - Maximizes Rewritability
