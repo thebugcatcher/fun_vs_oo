@@ -14,6 +14,7 @@ patat:
 
 ```
 
+Alonzo Church vs Alan Turing
 
 # RESOURCES
 
@@ -29,8 +30,6 @@ patat:
 
 - Basics of OO and Functional paradigms
 - Differences between OO and Functional
-- Some other paradigms
-- Languages we use at Annkissam
 - What do I like better?
 - Q&A / Discussion
 
@@ -64,26 +63,25 @@ patat:
 - Pure FP is declarative
 
 
-# OTHER PARADIGMS
-
-- Procedural
-- Symbolic
-- Logical
-- Imperative
-- Declarative
-- Esolangs
-
-
 # OBJECT ORIENTED VS FUNCTIONAL
 
 | OO                                         | λ                                     |
 |:-------------------------------------------|:--------------------------------------|
-| Nouns                                      | Verbs                                 |
-| Tend to be Imperative                      | Tend to be Declarative                |
+| Nouns (Abstraction, Inheritance)           | Verbs (Composition)                   |
+| Data coupled with Behavior                 | Data is separate from behavior        |
 | Usually more reusable                      | Usually more verbose                  |
 | Usually mutable                            | Usually immutable                     |
 | Turing Completedness                       | Lambda Calculus                       |
 
+
+# OTHER PARADIGMS
+
+> Procedural
+> Symbolic
+> Logical
+> Imperative
+> Declarative
+> Esolangs
 
 # WHAT DO I LIKE BETTER
 
@@ -101,12 +99,18 @@ patat:
   >> Code as you think..
   >> Intuitive (personal preference)
   >> Very mathematical
+  >> Composition & Currying
+  >> Great compilers
+
+- Maximizes Rewritability
+  >> Rewritability Paradox!
 
 - Communities
   >> Great maintainers
   >> Generally more intellectual people (personal experience)
 
-- Haskell & Haskell
+- Haskell!
+  >> Purely Functional
   >> Pattern Matching
   >> Pipe Operator
   >> Parameteric Polymorphism
@@ -114,10 +118,10 @@ patat:
   >> Static Typing
   >> Eager Evaluation
   >> Lazy evaluation through closures
+  >> High-level, yet super fast (GHC)
 
--
+- Joe Armstrong said:
 _The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle._
 
-                                                Joe Armstrong
 
 # QUESTIONS?
