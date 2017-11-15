@@ -14,7 +14,6 @@ patat:
 
 ```
 
-![Uncle Bob Functional](uncle_bob_troll.png)
 
 # A BRIEF HISTORY
 
