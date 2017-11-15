@@ -14,7 +14,15 @@ patat:
 
 ```
 
-Alonzo Church vs Alan Turing
+# A BRIEF HISTORY
+
+- Entscheidungsproblem (Decision Problem), by David Hilbert
+
+- Alonso Church
+    * Lambda Calculus
+- Alan Turing
+    * The Turing Machine
+
 
 # RESOURCES
 
@@ -42,15 +50,13 @@ Alonzo Church vs Alan Turing
 
 - Abstraction, Inheritance, Encapsulation, Polymorphism
 
-- Usually Imperative
-
 - Stateful
 
 
 
 # FUNCTIONAL PROGRAMMING PARADIGM
 
-- In functional paradigm, we break programs into functons that perform certain operations.
+- In functional paradigm, we break programs into functions that perform specific operations.
 
 - In FP, functions as first-class "objects".
 
@@ -59,8 +65,6 @@ Alonzo Church vs Alan Turing
 - Pure FP is side-effect-free programming.
 
 - In pure FP, everything is an expression
-
-- Pure FP is declarative
 
 
 # OBJECT ORIENTED VS FUNCTIONAL
@@ -120,7 +124,7 @@ Alonzo Church vs Alan Turing
   >> Lazy evaluation through closures
   >> High-level, yet super fast (GHC)
 
-- Joe Armstrong said:
+- __Joe Armstrong__ said:
 _The problem with object-oriented languages is they've got all this implicit environment that they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle._
 
 
