@@ -93,7 +93,7 @@ patat:
 # WHAT DO I LIKE BETTER
 
 - Explicitness
-  >> No Dynamic Dispatch code smell
+  >> No Dynamic Dispatch
   >> Side-effect free code
   >> Referential Transparency
 
