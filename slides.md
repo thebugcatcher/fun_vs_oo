@@ -53,6 +53,8 @@ patat:
 
 - Stateful
 
+- In Pure OO, everything is an object and everything evaluates to an object.
+
 
 
 # FUNCTIONAL PROGRAMMING PARADIGM
